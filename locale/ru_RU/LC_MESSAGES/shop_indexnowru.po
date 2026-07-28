@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Index-Now.ru for Shop-Script 1.0.0\n"
+"PO-Revision-Date: 2026-07-28 00:00+0000\n"
+"Last-Translator: Index-Now.ru Team <support@index-now.ru>\n"
+"Language-Team: Russian <support@index-now.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Index-Now.ru"
+msgstr "Index-Now.ru"
+
+msgid "Submits public Shop-Script product URLs to Index-Now.ru after publishing or updating."
+msgstr "Отправляет публичные URL товаров Shop-Script в Index-Now.ru после публикации или обновления."
+
+msgid "Enable automatic submission"
+msgstr "Автоматическая отправка"
+
+msgid "Submit the public product URL after an active product is saved."
+msgstr "Отправлять публичный URL после сохранения активного товара."
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "API key"
+msgstr "API-ключ"
+
+msgid "Create a key at index-now.ru. The saved value is encrypted and is never written to plugin logs."
+msgstr "Создайте ключ на index-now.ru. Сохранённое значение шифруется и никогда не записывается в журналы плагина."
+
+msgid "Remove saved API key"
+msgstr "Удалить сохранённый API-ключ"
+
+msgid "Delete the encrypted key when settings are saved"
+msgstr "Удалить зашифрованный ключ при сохранении настроек"
+
+msgid "Site ID"
+msgstr "ID сайта"
+
+msgid "Identifier of the site connected in the Index-Now.ru account."
+msgstr "Идентификатор сайта, подключённого в аккаунте Index-Now.ru."
+
+msgid "Request timeout"
+msgstr "Тайм-аут запроса"
+
+msgid "HTTPS request timeout in seconds, from 3 to 30."
+msgstr "Тайм-аут HTTPS-запроса в секундах, от 3 до 30."
+
+msgid "External service"
+msgstr "Внешний сервис"
+
+msgid "When enabled, the plugin sends the API key in the Authorization header, the configured site ID, and the public product URL to https://index-now.ru/api/v1/submit. Privacy: https://index-now.ru/privacy. Terms: https://index-now.ru/terms. URL submission does not guarantee crawling or indexing."
+msgstr "Когда плагин включён, он передаёт API-ключ в заголовке Authorization, настроенный ID сайта и публичный URL товара на https://index-now.ru/api/v1/submit. Политика: https://index-now.ru/privacy. Соглашение: https://index-now.ru/terms. Отправка URL не гарантирует сканирование или индексацию."
+
+msgid "API key is saved securely. Leave empty to keep it."
+msgstr "API-ключ сохранён в зашифрованном виде. Оставьте поле пустым, чтобы не менять его."
+
+msgid "Paste an Index-Now.ru API key"
+msgstr "Вставьте API-ключ Index-Now.ru"
+
+msgid "Site ID may contain only letters, digits, hyphens, and underscores."
+msgstr "ID сайта может содержать только буквы, цифры, дефисы и подчёркивания."
+
+msgid "Request timeout must be between 3 and 30 seconds."
+msgstr "Тайм-аут запроса должен быть от 3 до 30 секунд."
+
+msgid "API key is too long."
+msgstr "API-ключ слишком длинный."
+
+msgid "Enter both an API key and a Site ID before enabling automatic submission."
+msgstr "Перед включением автоматической отправки укажите API-ключ и ID сайта."
