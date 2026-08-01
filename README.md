@@ -143,5 +143,5 @@ Authorization header, the configured site ID, and the public product URL to
 
 ## Лицензия и поддержка
 
-GPL-2.0-or-later. Поддержка: support@index-now.ru.
+LGPL-3.0-or-later. Поддержка: support@index-now.ru.
 
